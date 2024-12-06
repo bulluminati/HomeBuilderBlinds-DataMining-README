@@ -44,7 +44,7 @@ This project aims to develop a specialized platform for aggregating and analyzin
 
 ### Proprietary Language Model (Long-Term Project):
 
-As a secondary project requiring additional time, funding, and resources, we plan to develop a proprietary Large Language Model (LLM) specifically trained on Tarrant County property data and other relevant datasets. This advanced model will enable a range of powerful features, including:
+As a secondary project requiring additional time, funding, and resources, we plan to develop a proprietary Large Language Model (LLM) and/or agent specifically trained on Tarrant County property data and other relevant datasets. This advanced model will enable a range of powerful features, including:
 
 - **Advanced Data Cross-Referencing**: Automate the verification and cross-referencing of scraped data with property ownership records, ensuring accurate and reliable information for lead generation and analysis.
 - **Natural Language Queries**: Allow real estate professionals to interact with the platform through natural language, making data retrieval and analysis more intuitive and accessible.
