@@ -2,8 +2,6 @@
 
 **Real Estate Data Aggregation and Lead Generation Platform**
 
-https://youtu.be/UvvfBav-deg?si=v-pFR0BpeM7BhW74
-
 ## Project Overview
 
 This project aims to develop a specialized platform for aggregating and analyzing public records and real estate data, tailored specifically for the real estate market in Tarrant County, Texas. The platform focuses on identifying potential real estate leads by integrating data from various sources, including property records, foreclosure notices, divorce filings, probate records, criminal records, medical examiner records, tax records, and information on life transitions that may prompt property sales. The system uses advanced skip tracing techniques, data scraping, and API integrations to provide actionable insights for real estate professionals.
